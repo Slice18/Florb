@@ -1,5 +1,26 @@
 {
-    "CamerNoo": {
-        "rank": "SrMod",
-    }
+  "Florbing": {
+    "bracket": "&8",
+    "label": "&9Bridge"
+  },
+  "catgirlSlice": {
+    "bracket": "&8",
+    "label": "&bGM"
+  },
+  "Paanda789": {
+    "bracket": "&8",
+    "label": "&5SM"
+  },
+  "catgirlTrey": {
+    "bracket": "&8",
+    "label": "&4HA"
+  },
+  "CamerNoo": {
+    "bracket": "&8",
+    "label": "&dSrMod"
+  },
+  "9Star_Hype": {
+    "bracket": "&8",
+    "label": "&dSrMod"
+  }
 }
