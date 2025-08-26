@@ -11,12 +11,16 @@
     "bracket": "&8",
     "label": "&5SM"
   },
-  "catgirlTrey": {
+  "ratph6": {
     "bracket": "&8",
     "label": "&4HA"
   },
   "CamerNoo": {
     "bracket": "&8",
-    "label": "&dAdmin"
+    "label": "&cAdmin"
+  },
+  "Jaxniss": {
+    "bracket": "&8",
+    "label": "&dMod"
   }
 }
